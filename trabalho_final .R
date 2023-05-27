@@ -1,3 +1,12 @@
+#----------------------------------------------------------------------
+#Desenvolvedores:  Romenique Silva dos Santos; 
+#                  Wendy Silva Cataldo;
+#                  Willian da Silva Dantas.
+#Github: https://github.com/romeniquesantos;
+#        https://github.com/wendycataldo;
+#        https://github.com/wiliandantas;
+#---------------------------------------------------------------------------------------------------------------------------------
+
 ##################################################################
 ## INSTALACAO DE PACOTES
 ##################################################################
